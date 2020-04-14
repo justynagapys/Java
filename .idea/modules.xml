@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 1 - Przykład/Zadanie 1 - Przykład.iml" filepath="$PROJECT_DIR$/Zadanie 1 - Przykład/Zadanie 1 - Przykład.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 1 - TotoLotek/Zadanie 1 - TotoLotek.iml" filepath="$PROJECT_DIR$/Zadanie 1 - TotoLotek/Zadanie 1 - TotoLotek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 2 - Odwrócenie zdania/Zadanie 2 - Odwrócenie zdania.iml" filepath="$PROJECT_DIR$/Zadanie 2 - Odwrócenie zdania/Zadanie 2 - Odwrócenie zdania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 2 - Przykład dwa/Zadanie 2 - Przykład dwa.iml" filepath="$PROJECT_DIR$/Zadanie 2 - Przykład dwa/Zadanie 2 - Przykład dwa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 3 - Delta/Zadanie 3 - Delta.iml" filepath="$PROJECT_DIR$/Zadanie 3 - Delta/Zadanie 3 - Delta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 3 - Zadanie 10/Zadanie 3 - Zadanie 10.iml" filepath="$PROJECT_DIR$/Zadanie 3 - Zadanie 10/Zadanie 3 - Zadanie 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 4 - Przyklad przeciążanie/Zadanie 4 - Przyklad przeciążanie.iml" filepath="$PROJECT_DIR$/Zadanie 4 - Przyklad przeciążanie/Zadanie 4 - Przyklad przeciążanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadanie 4 - Punkt i linia/Zadanie 4 - Punkt i linia.iml" filepath="$PROJECT_DIR$/Zadanie 4 - Punkt i linia/Zadanie 4 - Punkt i linia.iml" />
+    </modules>
+  </component>
+</project>
