@@ -11,7 +11,7 @@ Here you can find program that:
 * calculates the delta (**Delta**)
 * overloads methods and constructors (**Przyklad przeciążenie** and **Zadanie 10**)
 * shows inheritance in Java (**Specyficzności**, **Super**, **Przykład dwa** and **Punkty**)
-* shows the creation of abstractions and interfaces (**Nadpisywanie** and **Wzór dla klasy**)
+* shows the creation of abstractions and interfaces (**Nadpisywanie** and **Wzór dla klasy**).
 
 Exercises have been written using **IntelliJ - IDE**.
 
